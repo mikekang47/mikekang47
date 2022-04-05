@@ -16,4 +16,11 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-Solutions?style=flat&logo=cplusplus&logoColor=white"/>
 
-
+### Book I read
+* [프로그래머의 뇌]("https://mirrorofcode.tistory.com/283")
+* 객체지향의 사실과 오해
+* 클린 아키텍처
+* 클린 코드
+* 도메인 주도 설계
+* 테스트 주도 개발
+* 어떻게 문제를 풀 것인가
