@@ -1,6 +1,6 @@
 ### Hi there✋
 * [Tech Blog](https://mirrorofcode.tistory.com)
-* [PortFolio](https://mikekang47.github.io/history_of_coding)
+* [PortFolio](https://mikekang47.notion.site/Back-end-Programmer-a85b7a7e42444f61b8dc622a2d25d899)
 
 ### TECH SKILLS
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
