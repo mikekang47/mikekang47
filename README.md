@@ -1,6 +1,7 @@
-### Hi there✋
+> "리팩터링을 하고 싶다면, 필수 전제조건은 탄탄한 테스트가 있어야한다. - 마틴 파울러
+
+### 테스트를 중시하는 개발자 강시후입니다.
 * [Tech Blog](https://mirrorofcode.tistory.com)
-* [PortFolio](https://mikekang47.notion.site/Back-end-Programmer-a85b7a7e42444f61b8dc622a2d25d899)
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
