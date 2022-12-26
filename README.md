@@ -9,7 +9,7 @@
 
 ### EXPERIENCE
 
-##### Naver
+### Naver
 (2022.08 ~ 2022.08)
 * 개인화 BE 개발 인턴
 * Stub Tool 개발
