@@ -10,10 +10,12 @@
 ### EXPERIENCE
 
 ### Naver
+#### Backend Developer Intern, 개인화 BE 개발
 (2022.08 ~ 2022.08)
-* 개인화 BE 개발 인턴
-* Stub Tool 개발
-* Http Request Test가능
+* Java를 활용한 서버 사이드 개발
+* Spring Boot를 활용한 웹 백엔드 플랫폼 개발
+* 애플리케이션 설계, 개발 및 테스트
+* REST API를 테스트 하는 Stub 
 
 ### TECH SKILLS
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
