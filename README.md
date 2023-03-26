@@ -17,6 +17,10 @@
 * 애플리케이션 설계, 개발 및 테스트
 * REST API를 테스트 하는 Stub 
 
+### Channel
+#### Backend Developer
+(2023.03~ )
+
 ### TECH SKILLS
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
