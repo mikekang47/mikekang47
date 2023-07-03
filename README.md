@@ -9,7 +9,7 @@
 
 ### EXPERIENCE
 
-### Naver
+## Naver corp
 #### Backend Developer Intern, 개인화 BE 개발
 (2022.08 ~ 2022.08)
 * Java를 활용한 서버 사이드 개발
@@ -17,13 +17,15 @@
 * 애플리케이션 설계, 개발 및 테스트
 * REST API를 테스트 하는 Stub 
 
-### Channel
+## Channel.io
 #### Backend Developer
-(2023.03~ )
+(2023.03 ~ )
+
 
 ### TECH SKILLS
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
