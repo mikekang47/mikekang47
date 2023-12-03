@@ -18,8 +18,8 @@
 * REST API를 테스트 하는 Stub 
 
 ## Channel.io
-#### Backend Developer
-(2023.03 ~ )
+#### Backend Developer, 외부연동팀
+(2023.03 ~ ) 
 
 
 ### TECH SKILLS
